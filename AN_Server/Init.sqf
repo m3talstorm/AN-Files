@@ -10,9 +10,6 @@
 
 
 
-
-
-
 {
 if(!isPlayer _x) then {
 _npc = _x;
